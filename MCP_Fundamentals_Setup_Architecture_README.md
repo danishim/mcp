@@ -103,7 +103,7 @@ Example configuration (adjust paths and version to your environment):
         "mcp==2.3.0",
         "mcp",
         "run",
-        "C:\\_DATA\\work\\mcp\\filesystem\\filesystem_server.py"
+        "C:\\_DATA\\git\\mcp\\filesystem\\filesystem_server.py"
       ]
     }
   }
